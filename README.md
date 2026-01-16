@@ -1,1 +1,2 @@
-# pubgGGpanel
+# Free fire 
+GGpanel
